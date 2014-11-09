@@ -1,0 +1,7 @@
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Virtuace2.5\test\bin\Debug\test.exe
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Virtuace2.5\test\bin\Debug\test.pdb
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Virtuace2.5\test\obj\Debug\Virtuace3.Form1.resources
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Virtuace2.5\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Virtuace2.5\test\obj\Debug\Virtuace3.csproj.GenerateResource.Cache
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Virtuace2.5\test\obj\Debug\test.exe
+C:\Users\Mishchenko\Documents\Visual Studio 2013\Projects\Virtuace2.5\test\obj\Debug\test.pdb
